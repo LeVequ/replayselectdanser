@@ -12,6 +12,7 @@ ___
 
 ## Dependencies
 
+- [danser-go](https://github.com/Wieku/danser-go)
 - [.NET Runtime 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.25-windows-x64-installer)
 (not needed for standalone version)
 
