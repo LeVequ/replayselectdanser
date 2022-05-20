@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ReplaySelectorDanser"
         mc:Ignorable="d"
-        Title="DanserRS" Height="550" Width="400"
+        Title="Replay Selector (danser)" Height="550" Width="400"
         ResizeMode="NoResize"
         Icon="/Resources/Images/replayselector.ico"
         >

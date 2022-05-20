@@ -8,7 +8,7 @@
     <UseWindowsForms>False</UseWindowsForms>
     <ApplicationIcon>Resources\Images\replayselector.ico</ApplicationIcon>
     <SignAssembly>False</SignAssembly>
-    <StartupObject>fastd2.App</StartupObject>
+    <StartupObject>ReplaySelectorDanser.App</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
