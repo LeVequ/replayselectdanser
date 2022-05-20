@@ -5,7 +5,7 @@ using System.IO;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace fastd2
+namespace ReplaySelectorDanser
 {
     internal class Bkend
     {

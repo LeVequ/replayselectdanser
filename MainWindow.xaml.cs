@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
 
-namespace fastd2
+namespace ReplaySelectorDanser
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -18,7 +18,7 @@ namespace fastd2
 
         private void replaybt_Click(object sender, RoutedEventArgs e)
         {
-            string test = FGen.GetReplayFileYep(replaytb.Text);
+            string test = Fgen.GetReplayFileYep(replaytb.Text);
             replaytb.Text = test;
             replaytb.Select(replaytb.Text.Length, 0);
         }
@@ -36,7 +36,7 @@ namespace fastd2
 
         private void settingbt_Click(object sender, RoutedEventArgs e)
         {
-            string test = FGen.GetSettingFileYep(settingtb.Text);
+            string test = Fgen.GetSettingFileYep(settingtb.Text);
             settingtb.Text = test;
             settingtb.Select(settingtb.Text.Length, 0);
         }

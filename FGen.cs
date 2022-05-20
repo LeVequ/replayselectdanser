@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace fastd2
+namespace ReplaySelectorDanser
 {
-    class FGen
+    class Fgen
     {
        
         public static string GetReplayFileYep(string oldtext = "")
