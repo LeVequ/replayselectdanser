@@ -13,10 +13,8 @@ ___
 ## Dependencies
 
 - [danser-go](https://github.com/Wieku/danser-go)
-- [.NET Runtime 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.25-windows-x64-installer)
+- [.NET Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.25-windows-x64-installer)
 (not needed for standalone version)
-
-`Why not .NET 6?`: Yes that's my fault, migrating soon<sup>TM</sup>.
 
 ## How to use
 
@@ -30,5 +28,5 @@ ___
 #### Prerequisites
 
  - Visual Studio (w/ WPF) 
- - .NET SDK 3.1
+ - .NET SDK 6
   
