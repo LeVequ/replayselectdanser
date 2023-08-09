@@ -1,8 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <UseWindowsForms>False</UseWindowsForms>
@@ -10,7 +9,6 @@
     <SignAssembly>False</SignAssembly>
     <StartupObject>ReplaySelectorDanser.App</StartupObject>
   </PropertyGroup>
-
   <ItemGroup>
     <Resource Include="Resources\Fonts\Exo2-Bold.ttf">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
@@ -43,6 +41,4 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>
-
-
 </Project>
